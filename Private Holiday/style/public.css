@@ -1,0 +1,49 @@
+@charset "UTF-8"
+li{list-style:none;}
+img{border:none;vertical-align:middle;}
+a{text-decoration:none;color:#000;outline:none;}
+
+/*** flaot ***/
+.fl-l{float:left;}
+.fl-r{float:right;}
+
+/*** Çå³ý¸¡¶¯ ***/
+.cleatfix{zoom:1;}/*for IE*/
+.clearfix:after{content:"";display:block;clear:both;}
+
+/*** position ***/
+.pos-r{position:relative;}
+.pos-a{position:absolute;}
+.pos-f{position:fixed;}
+
+.t{top:0px;}
+.l{left:0px;}
+.b{bottom:0px;}
+.r{right:0px;}
+
+/***z-index***/
+.z-index0{z-index:0;}
+.z-index9{z-index:9;}
+.z-index99{z-index:99;}
+.z-index999{z-index:999;}
+.z-index9999{z-index:9999;}
+
+/***font-size***/
+.f-size10{font-size:10px;}
+.f-size12{font-size:12px;}
+.f-size13{font-size:13px;}
+.f-size14{font-size:14px;}
+.f-size16{font-size:16px;}
+.f-size18{font-size:18px;}
+.f-size20{font-size:20px;}
+/***font-family***/
+.f-family{font-family:"Microsoft Yahei";}
+
+/***border***/
+.bor-r{border-right:1px solid #ccc;}
+.bor-t{border-top:1px solid #ccc;}
+.bor-b{border-bottom:1px solid #ccc;}
+.bor-l{border-left:1px solid #ccc;}
+
+.min1000{min-width:1000px;}
+.mauto{margin:auto;}
